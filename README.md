@@ -1,4 +1,5 @@
 # TypeScriptSample
-練習
-aaaaaa
+初めてのTypeScriptサンプルを登録します。
+this is my first TypeScript SAMPLE.
+
 
