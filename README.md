@@ -4,4 +4,4 @@ this is my first TypeScript SAMPLE.
 
 初めてです！
 あああああ
-いいいいいあ
+いいいいいあ浅さささささs
